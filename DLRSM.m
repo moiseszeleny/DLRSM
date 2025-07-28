@@ -4,7 +4,7 @@ Off[General::spell]
 
 Model`Name = "DLRSM";
 Model`NameLaTeX ="Doublet Left-Right Symmetric Model";
-Model`Authors = "M. Zeleny";
+Model`Authors = "M. Zeleny R. Gaitán Lozano, R. Martinez";
 Model`Date = "2025-5-20";
 
 
