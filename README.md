@@ -154,7 +154,7 @@ After symmetry breaking, the model predicts:
 
 ## Authors and References
 
-- **Author**: M. Zeleny
+- **Author**: M. Zeleny-Mora, R.Gaitán Lozano, R. Martinez
 - **Date**: 2025-05-20
 - **Model**: Doublet Left-Right Symmetric Model
 - **Bibliography**: 
