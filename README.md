@@ -170,3 +170,7 @@ After symmetry breaking, the model predicts:
 ## License
 
 This model implementation is provided for research purposes. Please cite appropriately when using in publications.
+
+## Acknowledgments
+
+The research presented herein has been supported by the UNAM Postdoctoral Program (POSDOC) and the PAPIIT project IN105825
